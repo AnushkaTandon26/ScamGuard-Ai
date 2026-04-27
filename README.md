@@ -3,6 +3,11 @@
 ScamGuard AI is a full-stack voice analysis platform that helps users detect suspicious, cloned, or AI-generated voices from uploaded recordings and live microphone input. The application combines a React frontend, a FastAPI backend, real-time WebSocket streaming, and a CNN-Conformer-based audio classification pipeline.
 
 It is designed for practical use as a demo-ready product: users can register, run live or file-based analysis, review detection history, download PDF reports, and monitor trends from a dashboard. Administrators also get access to system-wide usage and user management tools.
+ # Live Demo
+🔗 Frontend (Vercel): https://scam-guard-ai-nu.vercel.app/
+🔗 Backend API (Render): https://scamguard-ai-67da.onrender.com/
+
+You can directly access the UI from the frontend link and test API endpoints via the backend.
 
 ## Highlights
 
