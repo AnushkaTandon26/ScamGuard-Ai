@@ -1,0 +1,6 @@
+tiversion: '3.8'
+
+services:
+  mongodb:
+    image: mongo:7.0
+    container_name: scam-detector-mongo

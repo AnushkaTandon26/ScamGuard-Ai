@@ -1,0 +1,16 @@
+.sixth/
+.venv/
+backend/venv/
+frontend/node_modules/
+frontend/build/
+backend/__pycache__/
+backend/routes/__pycache__/
+backend/utils/__pycache__/
+backend/database/__pycache__/
+*.pyc
+*.log
+backend/uploads/
+uploads/
+backend/database/local_data.json
+backend/.env
+frontend/.env.local
